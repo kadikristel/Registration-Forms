@@ -8,7 +8,8 @@ We have a Web page that consists of 2 different registration forms. Registration
 The registration forms are partially covered by the automation tests, which ensure that forms are working and all workflows and elements on the forms are working, though some parts are not tested at all. 
 Also, some parts of the automated tests for the second form intentionally contain some bugs, so automated tests are not working properly and need to be fixed.
 
-Expected project outcomes:
+Expected project outcomes:     
+
   • Form 1 is covered with tests:
     ⁕ Some tests need to be updated to understand the basic structure of the test.
     ⁕ Additional tests should be created
