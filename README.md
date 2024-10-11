@@ -10,11 +10,11 @@ Also, some parts of the automated tests for the second form intentionally contai
 
 Expected project outcomes:     
 
-  • Form 1 is covered with tests:
-    ⁕ Some tests need to be updated to understand the basic structure of the test.
-    ⁕ Additional tests should be created
+Form 1 is covered with tests:
+    • Some tests need to be updated to understand the basic structure of the test.
+    • Additional tests should be created
 
-  • Form 2 is covered with tests:
-    ⁕ All existing tests for the second registration form are working properly. Bugs in the code are discovered and fixed.
-    ⁕ Additional functional tests are created
-    ⁕ Additional visual tests are created
+Form 2 is covered with tests:
+    • All existing tests for the second registration form are working properly. Bugs in the code are discovered and fixed.
+    • Additional functional tests are created
+    • Additional visual tests are created
